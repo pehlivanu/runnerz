@@ -1,10 +1,10 @@
-package dev.liviuionesi.runnerz;
+package dev.ionelivi.runnerz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RunnerzApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
